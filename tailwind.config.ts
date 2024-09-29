@@ -23,7 +23,7 @@ module.exports = {
         'dark': '#006475',
         'medium': '#b3b3b3',
         'light': '#f57d6c',
-        'lightest': '#f5f5f5'
+        'lightest': '#f5f5f5',
       },
       animation: {
         blink: 'blink 1s infinite',
