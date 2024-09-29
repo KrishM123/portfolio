@@ -18,12 +18,12 @@ export default function NavBar() {
                         <span className="cursor-blink">▮</span>
                     </Link>
                     <div className="hidden lg:block">
-                        <div className="ml-10 flex items-baseline space-x-4 justify-end">
-                            <Link href="/my-work" className="hover:text-dark">
-                                [ my work ]
+                        <div className="ml-10 flex items-baseline space-x-8 justify-end">
+                            <Link href="/my-work" className="hover:text-dark px-4 py-2">
+                                [ &nbsp;my work&nbsp; ]
                             </Link>
-                            <Link href="https://drive.google.com/file/d/1kE9BLv6GWTIGxWWH4V8nFmHc4zO6x0bG/view?usp=sharing" className="hover:text-dark">
-                                [ resume ]
+                            <Link href="https://drive.google.com/file/d/1kE9BLv6GWTIGxWWH4V8nFmHc4zO6x0bG/view?usp=sharing" className="hover:text-dark px-4 py-2">
+                                [ &nbsp;resume&nbsp; ]
                             </Link>
                         </div>
                     </div>
@@ -45,12 +45,12 @@ export default function NavBar() {
             </div>
 
             <div className={`lg:hidden ${expandNav ? 'block' : 'hidden'} w-full bg-lightest`}>
-                <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3 flex flex-col items-end">
-                    <Link href="/my-work" className="hover:text-dark block px-3 py-2 rounded-md text-base font-medium">
-                        [ my work ]
+                <div className="px-2 pt-2 pb-3 space-y-3 sm:px-3 flex flex-col items-end">
+                    <Link href="/my-work" className="hover:text-dark block px-4 py-2 rounded-md text-base font-medium">
+                        [ &nbsp;my work&nbsp; ]
                     </Link>
-                    <Link href="https://drive.google.com/file/d/1kE9BLv6GWTIGxWWH4V8nFmHc4zO6x0bG/view?usp=sharing" className="hover:text-dark block px-3 py-2 rounded-md text-base font-medium">
-                        [ resume ]
+                    <Link href="https://drive.google.com/file/d/1kE9BLv6GWTIGxWWH4V8nFmHc4zO6x0bG/view?usp=sharing" className="hover:text-dark block px-4 py-2 rounded-md text-base font-medium">
+                        [ &nbsp;resume&nbsp; ]
                     </Link>
                 </div>
             </div>

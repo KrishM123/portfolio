@@ -60,7 +60,7 @@ export const caseStudies = [
     },
     {
         title: "No To Photo: Photo Blocking Pendant",
-        description: "Developed a wearable device that detects camera flashes and emits a counter-flash to obscure unwanted photos.",
+        description: "Developed a wearable device that emits a counter-flash to obscure unwanted photos. Gold Medal + Best Junior Physics Project at Canada-Wide Science Fair",
         link: "/projects/no-to-photo-photo-blocking-pendant",
         file: "no-to-photo-photo-blocking-pendant.md",
         tags: ["Research", "Mathematical Model"],
@@ -68,7 +68,7 @@ export const caseStudies = [
     },
     {
         title: "Point of Care Prothrombin Time Test",
-        description: "Created a portable device for quick and accurate blood coagulation testing, improving accessibility to critical medical diagnostics.",
+        description: "Created a portable device for quick and accurate blood coagulation testing, improving accessibility to critical medical diagnostics. Siver Medal at Canada-Wide Science Fair",
         link: "/projects/point-of-care-prothrombin-time-test",
         file: "point-of-care-prothrombin-time-test.md",
         tags: ["Research", "Biotech"],
@@ -76,7 +76,7 @@ export const caseStudies = [
     },
     {
         title: "Pee Xylophone: A Novel Non-Invasive Bladder Pressure Measurement System",
-        description: "Developed an innovative medical device that measures bladder pressure non-invasively, potentially revolutionizing urological diagnostics.",
+        description: "Developed a patent-pending medical device that measures bladder pressure non-invasively, revolutionizing urological diagnostics. Gold Medal + Youth Can Innovate Plus at Canada-Wide Science Fair. Team Canada at International Science and Engineering Fair",
         link: "/projects/pee-xylophone-novel-non-invasive-bladder-pressure-measurement-system",
         file: "pee-xylophone-novel-non-invasive-bladder-pressure-measurement-system.md",
         tags: ["Research", "Mathematical Model", "Biotech"],
@@ -84,7 +84,7 @@ export const caseStudies = [
     },
     {
         title: "Self-Driving Delivery Car",
-        description: "Focused on developing autonomous delivery vehicles to improve efficiency in last-mile logistics.",
+        description: "Created a Raspberry Pi self-driving car to deliver food around campus.",
         link: "/projects/self-driving-delivery-car",
         file: "self-driving-delivery-car.md",
         tags: ["ML", "Hardware"],
@@ -92,7 +92,7 @@ export const caseStudies = [
     },
     {
         title: "DriveSense: Accurate Driver Rating",
-        description: "Created an innovative app that uses machine vision to accurately rate driver performance and promote safer driving habits.",
+        description: "Innovatively used machine vision to accurately rate driver performance and promote safer driving habits for insurance discounts. Winner at Hack the North",
         link: "/projects/drivesense-accurate-driver-rating",
         file: "drivesense-accurate-driver-rating.md",
         tags: ["ML", "Mathematical Model", "Full-Stack"],
@@ -100,7 +100,7 @@ export const caseStudies = [
     },
     {
         title: "CogniCare: Alzheimer's Prevention and Detection",
-        description: "Designed a platform to assist in early detection and prevention of Alzheimer's disease through cognitive assessments and personalized care plans.",
+        description: "Designed a platform to assist in early detection and prevention of Alzheimer's disease through cognitive assessments and personalized care plans. Winner at MHacks",
         link: "/projects/cognicare-alzheimers-prevention-and-detection",
         file: "cognicare-alzheimers-prevention-and-detection.md",
         tags: ["ML", "Biotech", "Full-Stack"],
@@ -108,7 +108,7 @@ export const caseStudies = [
     },
     {
         title: "MAAPA: Smart CTRL+F",
-        description: "Developed an advanced search tool that enhances the traditional CTRL+F functionality with intelligent context-aware searching capabilities.",
+        description: "Developed an advanced search tool that enhances the traditional CTRL+F functionality with intelligent context-aware searching capabilities before ChatGPT.",
         link: "/projects/maapa-smart-ctrl-f",
         file: "maapa-smart-ctrl-f.md",
         tags: ["Full-Stack", "ML"],
@@ -116,7 +116,7 @@ export const caseStudies = [
     },
     {
         title: "Mid-Term Trading Algorithm",
-        description: "Created a stock prediction algorithm based on the mean reversion principle, designed to outperform standard market indices.",
+        description: "Created a stock prediction algorithm initially based on the mean reversion. Beat the S&P 500 for 2 years.",
         link: "/projects/mean-reversion",
         file: "mean-reversion.md",
         tags: ["Quant", "ML", "Mathematical Model"],
