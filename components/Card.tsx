@@ -12,7 +12,7 @@ const CaseStudyCard: React.FC<CaseStudyCardProps> = ({ title, description, link,
   return (
     <Link href={link}>
       <div className="bg-white mb-5 p-6 rounded-3xl shadow-lg hover:shadow-3xl transition-shadow duration-300 ease-in-out">
-        <h3 className="text-xl font-semibold text-gray-800 hover:text-dark transition-colors duration-200">
+        <h3 className="text-xl font-semibold text-gray-800 transition-colors duration-200">
           {title}
         </h3>
         <p className="text-gray-600 mt-4">{description}</p>
