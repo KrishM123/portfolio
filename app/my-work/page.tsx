@@ -79,7 +79,7 @@ export default function Home() {
                     placeholder="Search projects..."
                     value={searchTerm}
                     onChange={(e) => setSearchTerm(e.target.value)}
-                    className="p-2 border w-96 max-w[80%] rounded-full shadow-lg"
+                    className="p-2 border w-48 sm:w-96 max-w[80%] rounded-full shadow-lg"
                 />
 
                 <div className="hidden md:flex justify-items-center gap-2">
