@@ -41,6 +41,7 @@ export default async function ProjectPage({ params }: ProjectPageProps) {
         </Link>
         <h1 className="text-3xl font-bold mb-4">{project.title}</h1>
         <p className="text-gray-600 mb-4">{project.description}</p>
+        <p className="text-gray-500 mb-4">Date: {project.date}</p>
         <div className="mb-6">
           <strong className="text-gray-700">Tags:</strong>
           <div className="flex flex-wrap gap-2 mt-2">
