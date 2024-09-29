@@ -11,6 +11,7 @@ export default function SocialIcon({image, link}: {image: string, link: string})
             width={40}
             height={40}
             alt={link}
+            className="rounded-full"
           />
         </Link>
     </div>
